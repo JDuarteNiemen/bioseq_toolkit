@@ -17,7 +17,7 @@ Designed for teaching, rapid prototyping, and small-scale analyses, with minimal
 
 ### Installation
 ```angular2html
-git clone https://github.com/yourusername/bioseq-toolkit.git
+git clone https://github.com/JDuarteNiemen/bioseq_toolkit
 cd bioseq-toolkit
 pip install -r requirements.txt
 ```
